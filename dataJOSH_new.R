@@ -69,5 +69,11 @@ FeaturePlot(cca_out,features.plot=c("HYPOXIA","INVASIVENESS GENE SIGNATURE","ANG
 FeaturePlot(cca_out,features.plot=c("WNT BETA CATENIN SIGNALING","TGF BETA SIGNALING","E2F TARGETS","P53 PATHWAY","HEDGEHOG SIGNALING","PI3K-AKT-MTOR SIGNALING"),reduction.use="tsne",nCol=3,min.cutoff = "q05", max.cutoff = "q95", cols.use = c("lightgrey", "red"), pt.size = 1)
 FeaturePlot(cca_out,features.plot=c("BASE EXCISION REPAIR","MISMATCH EXCISION REPAIR","NUCLEOTIDE EXCISION REPAIR","HOMOLOGOUS RECOMBINATION","NONHOMOLOGOUS END JOINING"),reduction.use="tsne",nCol=3,min.cutoff = "q05", max.cutoff = "q95", cols.use = c("lightgrey", "red"), pt.size = 1)
 
+pam50 = scan("~/Research/pathways/pam50_genes.txt",what="")
+pam50_mm = convertHumanGeneList(pam50)
+pam50_ssgsea = gsva(as.matrix(cca_out@data),gset.idx.list=list(pam50_mm),method="ssgsea",kcdf="Gaussian",min.sz=1,max.sz=1000)
+cca_out@meta.data$PAM50 = as.numeric(scale(apply(pam50_ssgsea,1,scale)))
+FeaturePlot(cca_out,features.plot=c("PAM50"),reduction.use="tsne",nCol=1,min.cutoff = "q05", max.cutoff = "q95", cols.use = c("lightgrey", "red"), pt.size = 1)
+
 
 dev.off()
