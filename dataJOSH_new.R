@@ -1,6 +1,10 @@
-###############################
-## CCA
-###############################
+
+####################################################################
+## Code to run multivariate CCA on various mouse tumors (scRNA-seq)
+##
+## Author: Chaitanya Acharya
+## Updated: Feb 27, 2019
+####################################################################
 ## Set your working directory
 setwd("~/Research/Josh") ## setwd("your directory")
 
@@ -99,7 +103,7 @@ for(i in 1:10){
   metric[i]=CalcAlignmentMetric(cca_out,reduction.use = "cca.aligned",dims.use = 1:i, grouping.var =  "group")
   cat("Number of PCs: ",i," Alignment metric: ",metric[i],"\n")
 }
-dim_max = 3
+dim_max = metric[3]
 cca_out = RunTSNE(cca_out, reduction.use = "cca.aligned", dims.use = 1:dim_max, do.fast = T)
 TSNEPlot(object = cca_out, do.label = F,group.by="group")
 TSNEPlot(object = cca_out, do.label =T,no.legend = FALSE,dark.theme = FALSE,label.size=5,group.by="Phase")
