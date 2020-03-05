@@ -1,0 +1,53 @@
+LesionID	Age	Diagnosis	TFP_WT	eYFP_d16	mKO_p95	Inflammation	fibrosis	Area	Margin 
+TG18-0374DU_POI3	16	MIN	10.8	4.9	84.3	0	0	0.466	in-situ
+TG18-0368DU-Image 6 Block 2.tif	14	MIN	1.7	0.0	98.3	4	1	0.258	invasive
+TG18-0368DU-Image 6 Block 2.tif	14	MIN	0.4	99.6	0.0	2	2	1.500	invasive
+TG18-0374DU_Block13	16	MIN	1.6	98.4	0.0	0	1	0.988	expansile
+TG18-0374-POI7-8	16	MIN	0.4	3.4	96.2	4.5	1.5	0.065	invasive
+TG18-0370-block2-MIN2	15	MIN	0.0	99.8	0.2	4	0	0.919	NA
+TG18-0361-Block 1	15	MIN	1.5	91.6	6.9	1	3.5	2.863	invasive
+TG18-0363-Image 2 Block 1_min.tif	16	MIN	0.6	99.4	0.0	0	0	0.934	expansile
+TG18-0370-block2-MIN3	15	MIN	0.0	0.0	100.0	2	1	NA	invasive
+TG18-0372-Image 2 Block 1	13	MIN	1.0	0.0	99.0	2	3	0.737	invasive
+TG18-0360-Block 2_POI7	17	MIN	0.0	99.3	0.7	2	2	0.928	invasive
+TG18-0360-Block 3	17	MIN	99.9	0.1	0.0	0	0	0.336	in-situ
+TG18-0370-block1-MIN1	15	MIN	0.0	100.0	0.0	1	1	0.568	expansile
+TG18-0363-Image 2 Block 1_min.tif	16	MIN	0.0	0.1	99.9	4.5	4.5	1.010	invasive
+TG18-0370-block2-MIN	15	MIN	0.0	100.0	0.0	1	1	0.653	expansile
+TG18-0370-block2-MIN	15	MIN	0.0	0.0	100.0	2	2	1.134	invasive
+TG18-0372-Image 2 Block 1	13	MIN	1.0	99.0	0.0	1	1	1.074	expansile
+TG18-0374 POI16-17	16	MIN	0.0	3.1	96.9	3.5	1.5	0.457	invasive
+TG18-0374DU_Block13	16	MIN	9.0	0.0	91.0	2	2	1.364	expansile
+TG18-0374-PO12-13	16	MIN	0.1	0.0	99.9	2.5	2.5	0.257	invasive
+TG18-0374-POI10	16	MIN	0.0	97.5	2.5	0	0	0.088	expansile
+TG18-0374-POI14	16	MIN	0.5	99.5	0.0	1	NA	0.457	expansile
+TG18-0374-POI7-8	16	MIN	0.2	0.0	99.7	3.5	3	1.470	invasive
+TG18-0374 POI16-17	16	MIN	0.0	100.0	0.0	0	0	NA	expansile
+TG18-0361-Block 5	15	TU	3.4	93.6	3.0	1	2.5	0.928	invasive
+TG18-0374-Block1	16	TU	0.1	90.8	9.1	1.5	1	4.076	expansile
+TG18-0361-pgb	15	TU	90.4	1.8	7.8	0	2.5	0.336	expansile
+TG18-0360-Block 1_POI6	17	TU	2.6	0.7	96.7	3	3	2.863	invasive
+TG18-0368DU-Image 6 Block 1	14	TU	8.1	0.0	91.8	3	4	21.453	invasive
+TG18-0368DU-Image 6 Block 2.tif	14	TU	0.6	99.4	0.0	3	4	8.092	invasive
+TG18-0370-block2-TU3	15	TU	0.2	0.0	99.8	3	3	9.184	invasive
+TG18-0370DU-Block 6_TU1_2	15	TU	0.0	0.3	99.7	3.5	3.5	9.155	invasive
+TG18-0370DU-Block 6_TU1_2	15	TU	0.0	0.4	99.6	1.5	1	7.289	invasive
+TG18-0374_Image15-Block2	16	TU	0.3	0.0	99.7	3.5	3.5	7.830	invasive
+TG18-0374DU_POI3	16	TU	10.1	0.5	89.4	4.5	4.5	10.016	invasive
+TG18-0361-Block 3	15	TU	1.2	95.6	3.1	0	0	0.034	NA
+TG18-0363-Image 2 Block 4	16	TU	0.1	72.9	27.0	0	0	13.795	expansile
+TG18-0372-Image2 Block3_process	13	TU	4.3	93.4	2.4	0	0	6.048	expansile
+TG18-0370-Block5	15	TU	0.0	0.2	99.8	3	3	2.152	invasive
+TG18-0372-Image 2 Block 4	13	TU	0.3	0.0	99.6	3	4	2.250	invasive
+TG18-0374 POI16-17	16	TU	6.0	0.2	93.8	3	4	7.626	invasive
+TG18-0374-PO12-13	16	TU	0.4	94.6	5.0	1.5	2.5	4.037	invasive
+TG19-0165B	20	TU	3.4	0.1	96.5	2.5	4.5	30.901	invasive
+TG19-0165B	20	TU	8.6	0.2	91.2	2	3.5	9.574	invasive
+TG19-0165B	20	TU	27.6	0.0	72.4	3.5	2.5	4.000	invasive
+TG19-0393-1	17	TU	15.3	68.2	16.5	1.5	1.5	13.050	expansile
+TG19-0393-1	17	TU	5.0	85.1	9.9	3.5	3.5	10.920	invasive
+TG19-0393-2	17	TU	7.5	0.2	92.3	1.5	1.5	1.820	expansile
+TG19-0393-2	17	MIN	7.3	89.5	3.1	0	0	0.080	expansile
+TG19-0393-2	17	MIN	17.6	38.7	43.8	1.5	1	0.090	expansile
+TG19-0393-4	17	MIN	0.3	96.0	3.6	3.5	4.5	1.920	invasive
+TG19-0169-B	23	TU	1.2	97.8	1.1	2.5	1.5	4.600	expansile
