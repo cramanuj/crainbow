@@ -1,0 +1,29 @@
+Visvader_Luminal	Visvader_Luminal	Rspo1	 Ehf	 Kcnn4	 Plb1	 Clu	 Wfdc18	 Muc15	 R3hdml	 Itih2	 Hmgcs2	 Plac8	 Agtr1a	 Areg	 Hepacam2	 Cldn6	 Gdpd1	 Msx2				
+Visvader_Basal	Visvader_Basal	Rtn1	 Col4a2	 Pdpn	 Pplc	 Igfbp2	 Col4a1	 Sostdc1	 Tspan18	 Fst	 Lmo1	 Igfbp3	 Wnt6	 Moxd1	 Ccnd2	 Id4	 Serpinf1	 Wnt10	 Krt15			
+Visvader_MxL	Visvader_MxL	Areg	 Elf5	 Krt19	 Csn2	 Acta2	 Cxcl4	 Myh11														
+Visvader_LI	Visvader_LI	Jund	 Irx5	 Sox4	 Igfbp2																	
+BP_MP_Common	BP_MP_Common	Neat1	 Runx2	 Tktl1	 Bdh1	 EphB2	 Trio															
+BP_MP_BtoL	BP_MP_BtoL	Nr4a2 	 Nrfa3 	 Ntrk2 	 Prkca 	 Ptx3 	 Ltbp1															
+BP_MP_LtoB	BP_MP_LtoB	Il33	 Il24a	 Krt16	 Itga6	 Itga5	 Tnc	 Cd109	 Plau	 Wnt10a	 Timp3	 Inhba	 Ngf	 Ereg	 Ccdn1	 Ccdn2						
+BP_EMP_EMP	BP_EMP_EMP	Ndnf	 Igf2	 Ccnd2	 Rpsa.ps10	 Sox11	 Fn1	 H19	 Unc5b	 Lef1	 Gpc3	 Fras1	 Cdkn1c	 Igf2bp1	 Mfap2	 Epha7						
+BP_EMP_Basal	BP_EMP_Basal	Acta2	 Sparc	 Mylk	 Tpm2	 Apoe	 Cnn1	 Tagln	 Prelp	 Myh11	 Gas1	 Rbpms	 Scn7a	 Rbp1	 Fst	 Igfbp7	 Krt5	 Cxcl14	 Gas1	 Mmp2	 Col17a1	 Fstl1
+BP_EMP_LumHR+	BP_EMP_LumHR+	Wfdc2	 Prlr	 Ptn	 Slc12a2	 Fam25c	 Cited1	 Tmem56	 Cd164	 S100a6	 Stc2	 AW112010	 Ly6d	 Tmprss2	 Krt7	 Gpx3						
+BP_EMP_LumHR-	BP_EMP_LumHR-	Trf	 Mfge8	 Spp1	 Kit	 Btn1a1	 Csn3	 Plet1	 Itm2b	 Lcn2	 Aldoc	 Serinc3	 Cp	 Cd14	 Ehf	 Clic6						
+BP_EMP_LUM	BP_EMP_LUM	Krt18	 Cldn4	 Krt8	 Basp1	 Clu	 Cldn3	 Cldn7	 Epcam	 Klf6	 Ifrd1	 Aqp5	 Krt19	 Prlr	 Plet	 Ndel1						
+Khaled_Hsd_Hsp	Khaled_Hsd_Hsp	Cited1	 Prlr	 Esr1	 Areg	 Foxa1	 Ly6a	 Pgr	 S100a6													
+Khaled_Hsp_Lp_Avp_Avd	Khaled_Hsp_Lp_Avp_Avd	Aldh1a3	 Kit	 Cd14	 Lypd3																	
+Khaled_Avp_Avd	Khaled_Avp_Avd	Rspo1	 Atp6v1c2	 Wap	 Csn2	 Lalba																
+Khaled_Avd	Khaled_Avd	Fabp3	 Thrsp	 Glycam1	 Olah	 Lalba	 Wap															
+Khaled_Bsl	Khaled_Bsl	1500015O10Rik	 Col7a1	 Moxd1	 Mia	 Emid1	 Pdpn	 Col9a2	 Fbln2	 Igfbp3	 Fst	 Il17b	 Krt4	 Krt14	 Etv5	 Acta2						
+Khaled_Myo	Khaled_Myo	Oxtr	 Krt15	 Igfbp6	 Igfbp2	 Tns1																
+Khaled_Prc	Khaled_Prc	Tns1	 Gng11	 Procr	 Igfbp7	 Nrip2	 Notch3	 Zeb2	 Igfbp4													
+Kessenbrock_Basal	Kessenbrock_Basal	Krt14	 Krt5	 Acta2	 Mylk	 TP63	 S100A2	 Timp1	 Mmp3	 Tagln	 Acta2	 Actg2	 Eif5a	 Cav1	 Vim							
+Kessenbrock_L1	Kessenbrock_L1	Slpi	 Prom1	 Krt19	 Ltf	 SerpinB4	 SerpinB3	 Wfdc2	 Lcn2	 Btg1	 Cldn4	 Anxa1	 Hmga1									
+Kessenbrock_L2	Kessenbrock_L2	Ankrd30A	 Sytl2	 Stc2	 Agr2	 Areg	 Tnfsf10	 Serpina1	 Pip													
+Kessenbrock_X	Kessenbrock_X	Apod	 Sfrp4	 Igfbp7	 Gng11	 Angpt2	 Serpine1	 Hspa6	 Znf90	 Coro1a												
+Wahl_fMaSC	Wahl_fMaSC	Eya2	 Iga6	 Nrg1	 Sostdc1	 Sox10	 Myb	 Lsr	 Sfrp1	 Bcl11a	 Pthlh	 Sema3b	 Slitrk2									
+Wahl_MMPr	Wahl_MMPr	Jun	 Rela	 Relb	 NFkb2	 Sox4	 Arid1a	 Top2a	 Jmjd1c	 Jmjd6	 Cldn1	 Cldn6	 ICam									
+Wahl_Matrix	Wahl_Matrix	Col1	 Col3	 Col5	 Col6	 Col12	 Col15	 Col16	 Col18	 Fn1	 Tnc	 Vim										
+Wahl_Luminal	Wahl_Luminal	Cd24a	 Cdh1	 Esr1	 Gata3	 Krt8	 Krt18															
+Wahl_Basal	Wahl_Basal	Acta2	 Egfr	 Krt5	 Krt14	 Snai2																
+Wahl_immune	Wahl_immune	Cd83	 Cd86	 H2Aa	 H2Ab1	 H2Eb1	 H2M2	 H2Q6	 H2Q7	 H2T22												
